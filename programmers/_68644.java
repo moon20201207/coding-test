@@ -1,3 +1,4 @@
+// 두 개 뽑아서 더하기
 import java.util.HashSet;
 import java.util.Set;
 
