@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class _42576 {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
 
